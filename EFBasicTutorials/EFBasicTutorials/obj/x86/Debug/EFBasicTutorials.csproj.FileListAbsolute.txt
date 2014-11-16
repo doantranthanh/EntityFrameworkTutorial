@@ -1,0 +1,4 @@
+C:\src\EntityFrameworkTutorial\EFBasicTutorials\EFBasicTutorials\bin\Debug\EFBasicTutorials.exe
+C:\src\EntityFrameworkTutorial\EFBasicTutorials\EFBasicTutorials\bin\Debug\EFBasicTutorials.pdb
+C:\src\EntityFrameworkTutorial\EFBasicTutorials\EFBasicTutorials\obj\x86\Debug\EFBasicTutorials.exe
+C:\src\EntityFrameworkTutorial\EFBasicTutorials\EFBasicTutorials\obj\x86\Debug\EFBasicTutorials.pdb
