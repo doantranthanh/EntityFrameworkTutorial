@@ -9,7 +9,7 @@ namespace EF_Code_First_Tutorials
 {
     public class SchoolContext : DbContext
     {
-        public SchoolContext(): base()
+        public SchoolContext(): base("SchoolDbConnectionString")
         {
 
         }

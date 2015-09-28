@@ -20,6 +20,9 @@ namespace EF_Code_First_Tutorials
         public decimal Height { get; set; }
         public float Weight { get; set; }
 
+        // Foreign key for Standard
+        public int StandardID { get; set; }
+
         // Navigation property
         public Teacher Teacher { get; set; }
         public Standard Standard { get; set; }

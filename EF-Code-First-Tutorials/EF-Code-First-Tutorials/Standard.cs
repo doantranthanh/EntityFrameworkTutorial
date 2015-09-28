@@ -15,6 +15,7 @@ namespace EF_Code_First_Tutorials
         public int StandardID { get; set; }
         public string StandardName { get; set; }
 
+        // Collection in navigation property
         public ICollection<Student> Students { get; set; }
     }
 }
