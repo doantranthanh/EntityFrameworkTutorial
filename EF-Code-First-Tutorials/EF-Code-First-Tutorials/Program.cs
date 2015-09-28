@@ -16,6 +16,9 @@ namespace EF_Code_First_Tutorials
                 ctx.Students.Add(stud);
                 ctx.SaveChanges();
             }
+
+            Console.Write("Student saved !");
+            Console.ReadLine();
         }
     }
 }
