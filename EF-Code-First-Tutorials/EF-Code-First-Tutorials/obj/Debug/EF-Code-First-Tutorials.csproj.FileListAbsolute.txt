@@ -1,1 +1,10 @@
 C:\myprojects\EntityFrameworkTutorial\EF-Code-First-Tutorials\EF-Code-First-Tutorials\bin\Debug\EF-Code-First-Tutorials.exe.config
+C:\myprojects\EntityFrameworkTutorial\EF-Code-First-Tutorials\EF-Code-First-Tutorials\bin\Debug\EF-Code-First-Tutorials.exe
+C:\myprojects\EntityFrameworkTutorial\EF-Code-First-Tutorials\EF-Code-First-Tutorials\bin\Debug\EF-Code-First-Tutorials.pdb
+C:\myprojects\EntityFrameworkTutorial\EF-Code-First-Tutorials\EF-Code-First-Tutorials\bin\Debug\EntityFramework.dll
+C:\myprojects\EntityFrameworkTutorial\EF-Code-First-Tutorials\EF-Code-First-Tutorials\bin\Debug\EntityFramework.SqlServer.dll
+C:\myprojects\EntityFrameworkTutorial\EF-Code-First-Tutorials\EF-Code-First-Tutorials\bin\Debug\EntityFramework.xml
+C:\myprojects\EntityFrameworkTutorial\EF-Code-First-Tutorials\EF-Code-First-Tutorials\bin\Debug\EntityFramework.SqlServer.xml
+C:\myprojects\EntityFrameworkTutorial\EF-Code-First-Tutorials\EF-Code-First-Tutorials\obj\Debug\EF-Code-First-Tutorials.csprojResolveAssemblyReference.cache
+C:\myprojects\EntityFrameworkTutorial\EF-Code-First-Tutorials\EF-Code-First-Tutorials\obj\Debug\EF-Code-First-Tutorials.exe
+C:\myprojects\EntityFrameworkTutorial\EF-Code-First-Tutorials\EF-Code-First-Tutorials\obj\Debug\EF-Code-First-Tutorials.pdb

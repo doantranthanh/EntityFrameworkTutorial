@@ -10,6 +10,12 @@ namespace EF_Code_First_Tutorials
     {
         static void Main(string[] args)
         {
+            using (var ctx = new SchoolContext())
+            {
+                Student stud = new Student { StudentName = "Thanh Doan" };
+                ctx.Students.Add(stud);
+                ctx.SaveChanges();
+            }
         }
     }
 }
