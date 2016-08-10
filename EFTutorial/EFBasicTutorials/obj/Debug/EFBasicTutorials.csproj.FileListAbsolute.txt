@@ -1,0 +1,1 @@
+D:\dev\EntityFrameworkTutorial\EFTutorial\EFBasicTutorials\bin\Debug\EFBasicTutorials.exe.config
